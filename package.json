@@ -9,15 +9,15 @@
     "build": "plasmo build"
   },
   "dependencies": {
-    "plasmo": "canary",
-    "vue": "3.2.37"
+    "plasmo": "0.54.3",
+    "vue": "3.2.39"
   },
   "devDependencies": {
-    "@plasmohq/prettier-plugin-sort-imports": "1.1.1",
-    "@types/chrome": "0.0.193",
-    "@types/node": "18.0.3",
+    "@plasmohq/prettier-plugin-sort-imports": "1.4.0",
+    "@types/chrome": "0.0.197",
+    "@types/node": "18.7.18",
     "prettier": "2.7.1",
-    "typescript": "4.7.4"
+    "typescript": "4.8.3"
   },
   "manifest": {
     "host_permissions": [
