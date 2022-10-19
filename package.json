@@ -9,7 +9,7 @@
     "build": "plasmo build"
   },
   "dependencies": {
-    "plasmo": "0.57.1",
+    "plasmo": "0.57.2",
     "vue": "3.2.41"
   },
   "devDependencies": {
